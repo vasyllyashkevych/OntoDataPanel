@@ -1,5 +1,6 @@
 # OntoDataPanel
-Working with ontology's concepts v.2
+Working with ontology's concepts v.2.
+
 This code is not final and doesn't show all the functionality, only one part for concept managing.
 
 From my experience, it can be so useful panel for working with relations among concepts of ontology (meta ontology).
