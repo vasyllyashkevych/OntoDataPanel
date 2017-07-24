@@ -6,7 +6,6 @@ From my experience, it can be so useful panel for working with relations among c
 This tools was tested on the over 1 million concepts in dictionary.
 
 The main advantage over other tools that the expert can manage the relations between concepts within taxonomy, can change taxonomy 
-of classes. In attached presentation you can find the general tutorial for working with OntoDataPanel v.1. The tutorial for OntoDataPanel v.2
-will be shown on the 1 of June 2017.
+of classes. In attached presentation you can find the general tutorial for working with OntoDataPanel v.1. 
 
 Have a pleasure from working!
